@@ -1,5 +1,5 @@
 # 🖥 Expert System for Computer Diagnostics
-📌 Overview
+## 📌 Overview
 
 This project is a Python-based Expert System designed to help diagnose common computer hardware and software issues.
 
@@ -13,7 +13,7 @@ It works by asking the user a series of yes/no questions, analyzing the symptoms
 
 It’s a lightweight command-line tool for quick troubleshooting without needing advanced technical skills.
 
-🚀 Features
+## 🚀 Features
 
 -Interactive yes/no question-based diagnosis
 
@@ -25,7 +25,7 @@ It’s a lightweight command-line tool for quick troubleshooting without needing
 
 -Error handling for invalid inputs
 
-🛠 Diagnoses Covered
+## 🛠 Diagnoses Covered
 
 The system can detect:
 
