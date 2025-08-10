@@ -1,0 +1,23 @@
+===========================================
+  Expert System for Computer Diagnostics 💻
+===========================================
+
+Answer the following questions truthfully to help diagnose your issue.
+
+Does the computer fail to turn on? (yes/no):  yes
+Do you hear beeping sounds when turning it on? (yes/no):  no
+Is the computer getting unusually hot? (yes/no):  no
+Is the system running unusually slow? (yes/no):  no
+Do you get a blue screen error (BSOD)? (yes/no):  no
+Is your computer restarting frequently? (yes/no):  no
+Does the screen remain black or show no display? (yes/no):  yes
+Is the fan making loud or unusual noises? (yes/no):  no
+Are USB devices not being detected? (yes/no):  no
+Is the computer unable to connect to the internet? (yes/no):  no
+
+Analyzing symptoms...
+
+
+🧠 Diagnosis: Power Supply Failure
+🔍 Reason: If the device doesn't power on at all, it likely has PSU or battery problems.
+🛠️ Resolution: Verify the power source, try a different cable, or replace the PSU/battery.
